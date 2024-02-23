@@ -1,17 +1,17 @@
 # AR_Plants
 
 <hr>
-<h2 id="Play">게임 영상</h2>
+<h2 id="Play">프로젝트 영상</h2>
 <a href="https://youtu.be/J5TKrBIZk-E">
     <img src="https://img.youtube.com/vi/J5TKrBIZk-E/0.jpg" width="100%" height="100%"/>
 </a>
 이미지를 클릭하면 영상으로 연결됩니다.
 
 <hr>
-<h2 id="Outline">게임 개요</h2>
+<h2 id="Outline">프로젝트 개요</h2>
 <ul>
     <li>
-        <h3>Game Genre</h3>
+        <h3>Genre</h3>
          증강 현실 시뮬레이션
     </li> 
     <li>
